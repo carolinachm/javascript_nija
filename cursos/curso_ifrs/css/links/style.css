@@ -1,0 +1,17 @@
+
+a:link{
+    background-color: #b2ff99;
+    color: blue;
+}
+a:visited{
+    background-color: #ffff85;
+    color: red;
+}
+a:hover{
+    background-color: #77704D;
+    color: green;
+}
+a:active{
+    background-color: #ff704D;
+    color: grey;
+}
